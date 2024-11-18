@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\DotNetAngular\\Projects\\DatingAppCourse\\demo\\DatingApp\\API\\API.csproj",
         "projectName": "API",
         "projectPath": "D:\\DotNetAngular\\Projects\\DatingAppCourse\\demo\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\anh71\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "D:\\DotNetAngular\\Projects\\DatingAppCourse\\demo\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\anh71\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
